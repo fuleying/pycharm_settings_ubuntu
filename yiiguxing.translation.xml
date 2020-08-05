@@ -37,12 +37,4 @@
       </map>
     </option>
   </component>
-  <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="CHINESE" />
-      </google-translate>
-    </option>
-    <option name="ignoreRegExp" value="" />
-  </component>
 </application>
